@@ -1,0 +1,17 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "File Manager",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskarl2/file-manager.git"
+  },
+  "author": "Anthon Gorkov",
+  "license": "ISC",
+  "homepage": "https://github.com/oskarl2/file-manager#readme"
+}
